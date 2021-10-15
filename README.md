@@ -1,4 +1,4 @@
-# Zip Code React Lab
+# Zip Code Search App
 
 In this exercise, you will create two React apps:
 
